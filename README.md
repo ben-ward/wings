@@ -25,12 +25,12 @@ Software:
 	<li>HTML5</li>
 	<li>Bootstrap</li>
 </ul>
-<a href="http://ward.jp/wp-content/uploads/2017/02/IMG_3496-e1486775142402.jpg"><img class="size-full wp-image-171 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3496-e1486775142402.jpg" alt="IMG_3496" width="2448" height="3264" /></a>
+<img class="size-full wp-image-171 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3496-e1486775142402.jpg" alt="IMG_3496"/>
 
-<a href="http://ward.jp/wp-content/uploads/2017/02/IMG_3497.jpg"><img class="size-full wp-image-172 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3497.jpg" alt="IMG_3497" width="3264" height="2448" /></a>
+<img class="size-full wp-image-172 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3497.jpg" alt="IMG_3497"/>
 
-<a href="http://ward.jp/wp-content/uploads/2017/02/IMG_3501-e1486775157616.jpg"><img class="size-full wp-image-173 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3501-e1486775157616.jpg" alt="IMG_3501" width="2448" height="3264" /></a>
+<img class="size-full wp-image-173 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3501-e1486775157616.jpg" alt="IMG_3501" />
 
-<a href="http://ward.jp/wp-content/uploads/2017/02/IMG_3507-e1486775177610.jpg"><img class="size-full wp-image-174 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3507-e1486775177610.jpg" alt="IMG_3507" width="2448" height="3264" /></a>
+<img class="size-full wp-image-174 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3507-e1486775177610.jpg" alt="IMG_3507"/>
 
-<a href="http://ward.jp/wp-content/uploads/2017/02/IMG_3513-e1486775187238.jpg"><img class="size-full wp-image-175 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3513-e1486775187238.jpg" alt="IMG_3513" width="2448" height="3264" /></a>
+<img class="size-full wp-image-175 aligncenter" src="http://ward.jp/wp-content/uploads/2017/02/IMG_3513-e1486775187238.jpg" alt="IMG_3513" />
